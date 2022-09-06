@@ -1,0 +1,20 @@
+.content {
+    justify-content: center;
+    align-items: center;
+}
+
+.themeSupport {
+    height: 32px;
+
+    border: none;
+    border-bottom: 1px solid #4f4f4f;
+
+    padding: 6px;
+    box-sizing: border-box;
+
+    font-size: 14px;
+}
+
+textarea {
+    height: 256px;
+}

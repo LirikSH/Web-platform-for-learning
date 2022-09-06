@@ -1,0 +1,41 @@
+/* weight: 100 */
+@font-face {
+    font-family: "Jost-Thin";
+    src: url("Fonts/Jost-Thin.ttf");
+}
+
+/* weight: 200 */
+@font-face {
+    font-family: "Jost-ExtraLight";
+    src: url("Fonts/Jost-ExtraLight.ttf");
+}
+
+/* weight: 300 */
+@font-face {
+    font-family: "Jost-Light";
+    src: url("Fonts/Jost-Light.ttf");
+}
+
+/* weight: 400 */
+@font-face {
+    font-family: "Jost-Regular";
+    src: url("Fonts/Jost-Regular.ttf");
+}
+
+/* weight: 500 */
+@font-face {
+    font-family: "Jost-Medium";
+    src: url("Fonts/Jost-Medium.ttf");
+}
+
+/* weight: 600 */
+@font-face {
+    font-family: "Jost-SemiBold";
+    src: url("Fonts/Jost-SemiBold.ttf");
+}
+
+/* weight: 700 */
+@font-face {
+    font-family: "Jost-Bold";
+    src: url("Fonts/Jost-Bold.ttf");
+}

@@ -1,0 +1,77 @@
+body {
+    color: #4f4f4f;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+form {
+    align-self: center;
+    display: grid;
+    width: 512px;
+}
+select,
+input {
+    height: 48px;
+
+    border: none;
+    border-bottom: 2px solid #D38DEE;
+    box-sizing: border-box;
+
+    padding: 6px;
+    margin-bottom: 6px;
+    font-size: 14px;
+}
+select:checked,
+select:active,
+select:focus,
+input:checked,
+input:active,
+input:focus {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: 0;
+}
+label {
+    font-size: 14px;
+    margin-top: 8px;
+}
+button {
+    background: #8935D7;
+    height: 42px;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 12px;
+    margin: 16px 0 32px 0;
+}
+
+button:hover {
+    opacity: 0.8;
+    color: white;
+}
+
+.exit {
+    grid-column: 1/-1;
+    grid-row: 1/2;
+    align-self: start;
+    justify-self: start;
+}
+.exit:visited {
+    color: #4f4f4f;
+}
+
+.exit:active,
+.exit:checked,
+.exit:hover{
+    text-decoration: underline;
+    color: #8935D7;
+}
+
+.errorPass{
+    margin-top: 24px;
+    justify-self: center;
+    font-size: 18px;
+    font-weight: bold;
+    color: #d7356e;
+}

@@ -1,0 +1,41 @@
+.contentBlock {
+    height: 1024px;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    gap: 24px
+}
+
+.certificate {
+    font-family: Jost-Medium;
+}
+
+.certificate h1 {
+    font-size: 48px;
+
+}
+
+.certificate h2 {
+    font-size: 24px;
+}
+
+
+.name p:first-child {
+    font-size: 18px;
+}
+
+
+.name p:last-child {
+    font-size: 24px;
+    font-family: Jost-Medium;
+}
+
+.kurs p {
+    font-size: 18px;
+}
+
+.kurs p:last-child {
+    font-family: Jost-Medium;
+}
+
+.sign{margin-top: -28px}

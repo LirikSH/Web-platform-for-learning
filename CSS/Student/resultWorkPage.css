@@ -1,0 +1,6 @@
+.contentLesson input:first-child{
+    padding: 2px 6px;
+    border: none;
+    border-bottom: 1px solid #4f4f4f;
+}
+

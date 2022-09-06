@@ -1,0 +1,15 @@
+.answerBlock textarea{
+    height: 256px;
+}
+
+.answerBlock {
+    margin-bottom: 24px;
+}
+
+.result{
+    margin-top: 6px;
+}
+
+.workStudent p{
+    margin-top: 8px;
+}

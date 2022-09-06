@@ -1,0 +1,17 @@
+.imageBlock{
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+    gap: 12px
+}
+
+.image {
+    min-width: 480px;
+    min-height: 320px;
+    background-color: #4f4f4f;
+    border-radius: 4px;
+}
+
+.image-1 {
+    background-image: url("../../Media/image007.jpg");
+}
